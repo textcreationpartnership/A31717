@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Character of a true Protestant</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31717</idno>
+            <idno type="STC">Wing C1999</idno>
+            <idno type="STC">ESTC R38999</idno>
+            <idno type="EEBO-CITATION">18204331</idno>
+            <idno type="OCLC">ocm 18204331</idno>
+            <idno type="VID">107066</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31717)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107066)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1629:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Character of a true Protestant</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.S. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Apologetic works.</term>
+               <term>Conservatism --  England --  Religious aspects.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:107066:1" rendition="simple:additions"/>
+            <head>THE CHARACTER OF A True Proteſtant.</head>
+            <p>HE is one that profeſſeth the Doctrine and Diſcipline of the <hi>Church of England,</hi> as it is Eſtabliſhed by the Laws of the Kingdom, and profeſſeth againſt the Contrary. He ſticks to the Proteſtation of <hi>Ausburge.</hi> from whence he had his Name: He loves the <hi>
+                  <g ref="char:V">Ʋ</g>nity of the Church</hi> ſo, that he endeavours next her <hi>Verity in Faith,</hi> her Unity and Conformity in Diſcipline with that Church, not daring to broach any new Opinion, nor preach them to diſturb the <hi>Peace</hi> of his Aged Mother! Private Interpretations of Scrip<g ref="char:EOLhyphen"/>ture he approves not; but ſubmits his own, and maintains none againſt the received and approved Doctrine of the Church, whereof he is a Member. He thinks that Evange<g ref="char:EOLhyphen"/>lical Counſel is to be obſerved, and that all things muſt be done in Order and Decency: He owns the King to be the <hi>Head of the Church,</hi> as it is Perſonall, and hath Sworn him <hi>Gods</hi> Deputy in Government, and Truſted with the Sword, which he muſt not bear in vain: He dares not queſtion his Authority, who is only anſwerable to <hi>God;</hi> but in his Heart, honour him, as Gods Vice-gerent; and knows, that to reſiſt his Power, is to reſiſt him that gave it; and though the Penalty be Damnation, yet he fears not for that ſo much as the Offence given, to <hi>God</hi> who gave that Power: He Confeſſeth an Obligation to <hi>Gods</hi> Moral Laws, and Man's Judicial; and that there muſt be Obedience Active, as well as Paſſive, to the One, and the Other: He knows <hi>Chriſt</hi>'s Spi<g ref="char:EOLhyphen"/>ritual Kingdom oppoſeth not the Temporal C<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>im and Pow<g ref="char:EOLhyphen"/>er of Kings; but <hi>Ceſar</hi> muſt have his Tribute (<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Badge of Conqueſt) as <hi>God</hi> muſt have his in the Acknowledgment of
+<pb facs="tcp:107066:2" rendition="simple:additions"/>his Protection; and dare call his Soveraign, the <hi>Anointed of God,</hi> ſince <hi>God</hi> called <hi>Cyrus</hi> an Heathen ſo; not for the Ho<g ref="char:EOLhyphen"/>lineſs of External Unction, but the Internal Character of Suprem Power. So he can make a difference between <hi>Types</hi> and <hi>Metaphors;</hi> the <hi>One</hi> being in Perſons, the <hi>Other</hi> in Words. He conceives Paſſive Obedience always due to the King, where Active cannot be performed with a Good Conſcience. He believes Faith alone cannot juſtify, without Works; but both together; the <hi>Firſt</hi> before <hi>God,</hi> the <hi>Second</hi> before Man. <hi>He</hi> believes <hi>God</hi> rewards above Merit; yet that there is difference in Glory, and Reward, though all have Ful<g ref="char:EOLhyphen"/>neſs: Traditions and Ceremonies he reverences, as they are Antiquites, and ſtream from the Spring of Original Pu<g ref="char:EOLhyphen"/>rity, not to the neceſſity of Doctrine, but Diſcipline. He deteſteth Parity in Church or Common-wealth, as tending to Anarchy. He dares not Swear againſt his Conſcience, nor vow Implicite Obedience to occaſional Ordinances. He thinks no Authority but the ſame, or greater than that to whom he hath made a Judicial Vow, can diſannul it: He is Loyal, for Conſcience ſake, to his Soveraign; Charitable, for <hi>Gods</hi> ſake, to his Neighbour; and dares not do that un<g ref="char:EOLhyphen"/>to another, he cannot be contened ſhould be done unto him<g ref="char:EOLhyphen"/>ſelf; muchleſs rob his Soveraign of his Birth-Right, or deface <hi>Gods</hi> Character. He thinks <hi>Dixi vos dijeſtis,</hi> belongs Supreamly to his Soveraign, Miniſterially to his Subjects: He dares not diſtinguiſh betwixt the <hi>King,</hi> and his <hi>Perſon;</hi> but thinks thoſe that dare be ſo bold, derive their Logick with the <hi>Jeſuits,</hi> from Hell. His Heart thinks no Diſloyal thought, muchleſs dares he ſpeak a Word to leſſen the Re<g ref="char:EOLhyphen"/>verence due to Majeſty; not for fear of Puniſhment, but the Sin. In a word, he is One that dare in his Princes Juſt quarrel, meet Death with chearfulneſs, as <hi>David</hi> met <hi>Goli<g ref="char:EOLhyphen"/>ah,</hi> or as <hi>Daniel</hi> went into the <hi>Lyons Den;</hi> and can ſerve his <hi>God,</hi> his <hi>King,</hi> and <hi>Country,</hi> without Fear of Enemies; and with chearfulnneſs, can ſing his <hi>Nunc Dimitte,</hi> as <hi>Simeon</hi> did with his <hi>Christ</hi> in his Arms. And this alone is your <hi>True Pro<g ref="char:EOLhyphen"/>teſtant.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T. S.</hi> in the Year 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
